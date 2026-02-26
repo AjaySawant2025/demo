@@ -1,9 +1,9 @@
 # demo
-thi is demo for githum.
+This is Demo for git hub
 
 # teacher
-this is teacher
+This is Teacher
 
 # student
-this is student
+This  is  Student
 
