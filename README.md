@@ -1,9 +1,9 @@
 # demo
 This is Demo for git hub
 
-# teacher
+# Teacher
 This is Teacher
 
-# student
+# Student
 This  is  Student
 
