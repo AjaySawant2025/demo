@@ -1,9 +1,9 @@
 # Demo
-This is Demo for git hub
+This is Demo for git hub.
 
 # Teacher
-This is Teacher
+This is Teacher.
 
 # Student
-This  is  Student
+This  is  Student.
 
