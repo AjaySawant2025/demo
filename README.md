@@ -1,4 +1,4 @@
-# demo
+# Demo
 This is Demo for git hub
 
 # Teacher
