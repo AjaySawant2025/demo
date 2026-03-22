@@ -1,5 +1,5 @@
 # Demo
-This is Demo for git hub.
+This is Demo for git hub
 
 # Teacher
 This is Teacher.
